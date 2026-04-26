@@ -135,11 +135,7 @@ git clone https://github.com/your-username/startup-funding-tracker.git
 cd startup-funding-tracker
 2. Install Dependencies
 npm install
-3. Setup Environment Variables
 
-Create a .env.local file:
-
-FIRECRAWL_API_KEY=your_api_key_here
 4. Run the Application
 npm run dev
 
